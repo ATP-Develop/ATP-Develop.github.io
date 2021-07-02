@@ -1,4 +1,4 @@
-![Image of Cover](https://github.com/ATP-Develop/ATP-Develop.github.io/blob/main/img/cover.png)
+![Image of Cover](/img/cover.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ATP-Develop/ATP-Develop.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
